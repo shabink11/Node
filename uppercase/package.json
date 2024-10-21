@@ -1,0 +1,16 @@
+{
+  "name": "uppercase",
+  "version": "1.0.0",
+  "main": "Uppercase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lower-case": "^3.0.0",
+    "upper-case": "^3.0.0"
+  }
+}
